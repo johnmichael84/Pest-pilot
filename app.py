@@ -26,5 +26,6 @@ elif pest.strip().lower() == "mosquitoes":
     print("Keep children and pets away from treated areas until product has had time to dry")
     print("Mosquito treatments help reduce mosquito activity but may not eliminate all mosquitoes")
     print("Remove or cover standing water weekly to help prevent mosquitoes")
+    print("Results improve over time and call us if activity stays high")
 else:
     print("Sorry, we do not have information for that pest.")
