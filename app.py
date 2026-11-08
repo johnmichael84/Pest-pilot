@@ -3,10 +3,10 @@ name = input("What is your name ?")
 print("Nice to meet you, "+ name + "!")
 pest= input("What pest are you treating?")
 print ("You are treating " + pest + ".")
-
 if pest.strip().lower() == "ants":
     print("Ant treatment information selected.")
     print("Inspect ant trails, entry points, and nesting areas")
+    print("Identify the ant species and nesting location before selecting a treatment")
 elif pest.strip().lower() == "roaches":
     print("Roaches treatment information selected")
     print("Inspect kitchen, bathrooms, food sources, and moisture areas")
