@@ -6,9 +6,12 @@ print ("You are treating " + pest + ".")
 
 if pest.strip().lower() == "ants":
     print("Ant treatment information selected.")
+    print("Inspect ant trails, entry points, and nesting areas")
 elif pest.strip().lower() == "roaches":
     print("Roaches treatment information selected")
+    print("Inspect kitchen, bathrooms, food sources, and moisture areas")
 elif pest.strip().lower() == "mosquitoes":
     print("Mosquitoes treatment information selected")
+    print("Inspect standing water, shaded areas, and dense vegetation")
 else:
     print("Sorry, we do not have information for that pest.")
