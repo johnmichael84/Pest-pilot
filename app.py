@@ -22,6 +22,7 @@ elif pest.strip().lower() == "mosquitoes":
     print("Drain standing water around the property")
     print("Inspect gutters, flowerpots, buckets, and other areas that collect water")
     print("Inspect shrubs, shaded vegetation, and mosquito resting areas before treatment")
+    print("Ceck for pets, fish ponds, beehives, and sensitive areas before applying treatment")
     print("Treat mosquite resting areas using an approved product according to the label")
     print("Keep children and pets away from treated areas until product has had time to dry")
     print("Mosquito treatments help reduce mosquito activity but may not eliminate all mosquitoes")
