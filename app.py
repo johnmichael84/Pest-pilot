@@ -8,9 +8,14 @@ if pest.strip().lower() == "ants":
     print("Inspect ant trails, entry points, and nesting areas")
     print("Identify the ant species and nesting location before selecting a treatment")
     print("Seal entry points and remove accesible food and water sources")
+    print("Remove food crumbs and fix moisture issues")
 elif pest.strip().lower() == "roaches":
     print("Roaches treatment information selected")
     print("Inspect kitchen, bathrooms, food sources, and moisture areas")
+    print("Check behind refrigerators, stoves, cabinets, and plumbing fixtures")
+    print("Remove food debris, eliminate water sources, and reduce clutter")
+    print("Place glue boards near suspected roach hiding areas")
+    print("Apply approved roach bait in cracks and crevices according to the label")
 elif pest.strip().lower() == "mosquitoes":
     print("Mosquitoes treatment information selected")
     print("Inspect standing water, shaded areas, and dense vegetation")
